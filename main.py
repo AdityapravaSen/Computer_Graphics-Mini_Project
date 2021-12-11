@@ -76,6 +76,7 @@ if __name__ == "__main__":
         plt.gca().set_aspect('equal', adjustable='box')
         plt.grid()
 
+    # User input
     # a = int(input("enter x-coordinate of ellipse:"))
     # b = int(input("enter y-coordinate of ellipse:"))
     # rx = int(input("enter x axis length:"))

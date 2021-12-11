@@ -12,8 +12,8 @@ Prepare a mini project - a package in python containing line, circle and ellipse
 
 #### Group Members:
 
-* Srijita(Roll-08)
-* Somlogna(Roll-16)
+* Srijita Bhattacharjee(Roll-08)
+* Somlagna Chatterjee(Roll-16)
 * Sounav Saha(Roll-63)
 * Adityaprava Sen(Roll-68)
 * Rachana Sengupta(Roll-69)

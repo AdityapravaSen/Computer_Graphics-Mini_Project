@@ -15,6 +15,7 @@ def bresenham_line(x1, y1, x2, y2):
         x2, y2 = y2, x2
 
     p = 2 * dy-dx
+    
     # initialize plotting
     xcoords = [x]
     ycoords = [y]
